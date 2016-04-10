@@ -2,4 +2,5 @@
 plugin for [python-rtmbot](https://github.com/slackhq/python-rtmbot) that gives everyone in your slack great calcium and healthy bones for life
 
 # Installation
-put `thank.py` in `python-rtmbot/plugins/thank/` and you should be good to go!
+Put `thank.py` in `python-rtmbot/plugins/thank/` 
+activate your python-rtmbot virtualenv and type `pip install -r "reqirements.txt"`
